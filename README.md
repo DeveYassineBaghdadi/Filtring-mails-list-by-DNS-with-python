@@ -1,6 +1,6 @@
 # Filtring-mails-list-by-DNS-with-python
 
-======== + SCRIPT C BY YASSINE BAGHDADI
+======== + SCRIPT CREATED BY YASSINE BAGHDADI
 
 ======== + Date : 12-09-2019 
 
